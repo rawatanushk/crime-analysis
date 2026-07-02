@@ -1,0 +1,1295 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62763953592733,
+          41.888336939830076
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "crime_count": 5532,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65085773702386,
+          41.94046801226014
+        ]
+      },
+      "properties": {
+        "cluster_id": 37,
+        "crime_count": 419,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67587290664127,
+          41.90908880499508
+        ]
+      },
+      "properties": {
+        "cluster_id": 13,
+        "crime_count": 407,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74152643434559,
+          41.754597439933825
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "crime_count": 272,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63934833210318,
+          41.867216208615076
+        ]
+      },
+      "properties": {
+        "cluster_id": 4,
+        "crime_count": 252,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74219955453242,
+          41.90966193594444
+        ]
+      },
+      "properties": {
+        "cluster_id": 16,
+        "crime_count": 216,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65628879037673,
+          41.96374047030233
+        ]
+      },
+      "properties": {
+        "cluster_id": 26,
+        "crime_count": 215,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64045250716667,
+          41.88020949257843
+        ]
+      },
+      "properties": {
+        "cluster_id": 23,
+        "crime_count": 204,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65127674355676,
+          41.910316372054055
+        ]
+      },
+      "properties": {
+        "cluster_id": 9,
+        "crime_count": 185,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66696600487953,
+          41.90387344248193
+        ]
+      },
+      "properties": {
+        "cluster_id": 15,
+        "crime_count": 166,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62629534479747,
+          41.86720148796835
+        ]
+      },
+      "properties": {
+        "cluster_id": 19,
+        "crime_count": 158,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64487766794267,
+          41.9333872504586
+        ]
+      },
+      "properties": {
+        "cluster_id": 56,
+        "crime_count": 157,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62836730419608,
+          41.736222712562096
+        ]
+      },
+      "properties": {
+        "cluster_id": 52,
+        "crime_count": 153,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65580998619464,
+          41.94691968079866
+        ]
+      },
+      "properties": {
+        "cluster_id": 27,
+        "crime_count": 149,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64038384922974,
+          41.904500818587834
+        ]
+      },
+      "properties": {
+        "cluster_id": 5,
+        "crime_count": 148,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63408469674825,
+          41.74271724588112
+        ]
+      },
+      "properties": {
+        "cluster_id": 21,
+        "crime_count": 143,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63527798617021,
+          41.916815388418435
+        ]
+      },
+      "properties": {
+        "cluster_id": 20,
+        "crime_count": 141,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.604755573375,
+          41.73839219042188
+        ]
+      },
+      "properties": {
+        "cluster_id": 22,
+        "crime_count": 128,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74579968508661,
+          41.953385377952756
+        ]
+      },
+      "properties": {
+        "cluster_id": 42,
+        "crime_count": 127,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64754042943902,
+          41.881476087894306
+        ]
+      },
+      "properties": {
+        "cluster_id": 35,
+        "crime_count": 123,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68520283779465,
+          41.92994287134821
+        ]
+      },
+      "properties": {
+        "cluster_id": 11,
+        "crime_count": 112,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90647571637037,
+          41.97899163164815
+        ]
+      },
+      "properties": {
+        "cluster_id": 25,
+        "crime_count": 108,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63586051931132,
+          41.91124024710378
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "crime_count": 106,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67531604935294,
+          42.01869812011764
+        ]
+      },
+      "properties": {
+        "cluster_id": 45,
+        "crime_count": 102,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66309117809901,
+          41.886215754970294
+        ]
+      },
+      "properties": {
+        "cluster_id": 67,
+        "crime_count": 101,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7037905080297,
+          41.8020794660495
+        ]
+      },
+      "properties": {
+        "cluster_id": 63,
+        "crime_count": 101,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57636764136458,
+          41.7658728965
+        ]
+      },
+      "properties": {
+        "cluster_id": 36,
+        "crime_count": 96,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64677685376843,
+          41.89099569706316
+        ]
+      },
+      "properties": {
+        "cluster_id": 24,
+        "crime_count": 95,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64430398016484,
+          41.94022509391208
+        ]
+      },
+      "properties": {
+        "cluster_id": 55,
+        "crime_count": 91,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90510726613334,
+          41.976269597699996
+        ]
+      },
+      "properties": {
+        "cluster_id": 28,
+        "crime_count": 90,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63333668630682,
+          41.85334510892046
+        ]
+      },
+      "properties": {
+        "cluster_id": 39,
+        "crime_count": 88,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67777187718823,
+          41.89583651889412
+        ]
+      },
+      "properties": {
+        "cluster_id": 33,
+        "crime_count": 85,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58597858322891,
+          41.757828722686746
+        ]
+      },
+      "properties": {
+        "cluster_id": 17,
+        "crime_count": 83,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7029665081154,
+          41.77853401847436
+        ]
+      },
+      "properties": {
+        "cluster_id": 66,
+        "crime_count": 78,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63136294435527,
+          41.79503125518421
+        ]
+      },
+      "properties": {
+        "cluster_id": 49,
+        "crime_count": 76,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64915273304,
+          41.94869750148
+        ]
+      },
+      "properties": {
+        "cluster_id": 58,
+        "crime_count": 75,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65543888751999,
+          41.97686249233334
+        ]
+      },
+      "properties": {
+        "cluster_id": 10,
+        "crime_count": 75,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68941368674325,
+          41.91816731104054
+        ]
+      },
+      "properties": {
+        "cluster_id": 46,
+        "crime_count": 74,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59630229580281,
+          41.69595085528169
+        ]
+      },
+      "properties": {
+        "cluster_id": 54,
+        "crime_count": 71,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61160054305634,
+          41.891958751169014
+        ]
+      },
+      "properties": {
+        "cluster_id": 57,
+        "crime_count": 71,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64788821238571,
+          41.88676548838571
+        ]
+      },
+      "properties": {
+        "cluster_id": 18,
+        "crime_count": 70,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61568533307143,
+          41.77965618742857
+        ]
+      },
+      "properties": {
+        "cluster_id": 62,
+        "crime_count": 70,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68804611738236,
+          41.942674091985296
+        ]
+      },
+      "properties": {
+        "cluster_id": 50,
+        "crime_count": 68,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7863077320597,
+          41.92360403932836
+        ]
+      },
+      "properties": {
+        "cluster_id": 32,
+        "crime_count": 67,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64406854932835,
+          41.75083047426865
+        ]
+      },
+      "properties": {
+        "cluster_id": 48,
+        "crime_count": 67,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66032312204688,
+          41.99158705534375
+        ]
+      },
+      "properties": {
+        "cluster_id": 72,
+        "crime_count": 64,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74651695155555,
+          41.90860261677778
+        ]
+      },
+      "properties": {
+        "cluster_id": 31,
+        "crime_count": 63,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67282631970967,
+          42.01899488741936
+        ]
+      },
+      "properties": {
+        "cluster_id": 6,
+        "crime_count": 62,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68573151631148,
+          41.88150665108196
+        ]
+      },
+      "properties": {
+        "cluster_id": 60,
+        "crime_count": 61,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66545827271666,
+          41.92174128361667
+        ]
+      },
+      "properties": {
+        "cluster_id": 34,
+        "crime_count": 60,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66902915183051,
+          41.94114151140678
+        ]
+      },
+      "properties": {
+        "cluster_id": 12,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60633006059322,
+          41.80894019127118
+        ]
+      },
+      "properties": {
+        "cluster_id": 44,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6446932879322,
+          41.77343453883051
+        ]
+      },
+      "properties": {
+        "cluster_id": 51,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61725161356895,
+          41.83167881060345
+        ]
+      },
+      "properties": {
+        "cluster_id": 53,
+        "crime_count": 58,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68907244415789,
+          41.851987195157896
+        ]
+      },
+      "properties": {
+        "cluster_id": 38,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74119983640351,
+          41.78872753094737
+        ]
+      },
+      "properties": {
+        "cluster_id": 30,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74282680592982,
+          41.93146896661404
+        ]
+      },
+      "properties": {
+        "cluster_id": 29,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72344308314287,
+          41.80002490401785
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "crime_count": 56,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64541808385715,
+          41.92290887005357
+        ]
+      },
+      "properties": {
+        "cluster_id": 59,
+        "crime_count": 56,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66379749758181,
+          41.765690956654545
+        ]
+      },
+      "properties": {
+        "cluster_id": 47,
+        "crime_count": 55,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64645477360376,
+          41.94587544864151
+        ]
+      },
+      "properties": {
+        "cluster_id": 8,
+        "crime_count": 53,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67498558024529,
+          41.810108922301886
+        ]
+      },
+      "properties": {
+        "cluster_id": 71,
+        "crime_count": 53,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5852858862,
+          41.7362029791
+        ]
+      },
+      "properties": {
+        "cluster_id": 65,
+        "crime_count": 50,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66568562504,
+          41.836312638219994
+        ]
+      },
+      "properties": {
+        "cluster_id": 61,
+        "crime_count": 50,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65518776363265,
+          41.87802876108163
+        ]
+      },
+      "properties": {
+        "cluster_id": 14,
+        "crime_count": 49,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66634548846937,
+          41.8663068307551
+        ]
+      },
+      "properties": {
+        "cluster_id": 7,
+        "crime_count": 49,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62427995227084,
+          41.7217469155625
+        ]
+      },
+      "properties": {
+        "cluster_id": 41,
+        "crime_count": 48,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72240228975556,
+          41.76490889648889
+        ]
+      },
+      "properties": {
+        "cluster_id": 43,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64715951313333,
+          41.918809807466666
+        ]
+      },
+      "properties": {
+        "cluster_id": 81,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64605111773334,
+          41.83861836693333
+        ]
+      },
+      "properties": {
+        "cluster_id": 68,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63692800382222,
+          41.88971936153333
+        ]
+      },
+      "properties": {
+        "cluster_id": 69,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80576669,
+          41.909307068
+        ]
+      },
+      "properties": {
+        "cluster_id": 40,
+        "crime_count": 44,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78866301406819,
+          41.9309506860909
+        ]
+      },
+      "properties": {
+        "cluster_id": 82,
+        "crime_count": 44,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66362349388372,
+          41.76840302734884
+        ]
+      },
+      "properties": {
+        "cluster_id": 75,
+        "crime_count": 43,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71348835532558,
+          41.946063662023256
+        ]
+      },
+      "properties": {
+        "cluster_id": 79,
+        "crime_count": 43,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72458875921429,
+          41.85187221659524
+        ]
+      },
+      "properties": {
+        "cluster_id": 74,
+        "crime_count": 42,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69506676273171,
+          41.84365601480488
+        ]
+      },
+      "properties": {
+        "cluster_id": 80,
+        "crime_count": 41,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6635484046,
+          41.748807127875
+        ]
+      },
+      "properties": {
+        "cluster_id": 78,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66445652495,
+          41.779463571975
+        ]
+      },
+      "properties": {
+        "cluster_id": 84,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63589518405,
+          41.922252791325
+        ]
+      },
+      "properties": {
+        "cluster_id": 77,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55100214192501,
+          41.729919983849996
+        ]
+      },
+      "properties": {
+        "cluster_id": 73,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6627463646,
+          41.678337545
+        ]
+      },
+      "properties": {
+        "cluster_id": 76,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.649108431375,
+          41.9293968781
+        ]
+      },
+      "properties": {
+        "cluster_id": 83,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63936700353334,
+          41.91071169093333
+        ]
+      },
+      "properties": {
+        "cluster_id": 70,
+        "crime_count": 30,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62419416922222,
+          41.8729499787037
+        ]
+      },
+      "properties": {
+        "cluster_id": 64,
+        "crime_count": 27,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55214387036841,
+          41.72807426557895
+        ]
+      },
+      "properties": {
+        "cluster_id": 85,
+        "crime_count": 19,
+        "crime_type": "THEFT"
+      }
+    }
+  ]
+}

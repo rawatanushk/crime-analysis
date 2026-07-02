@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chicago Crime Analysis Dashboard</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div id="sidebar">
+  <h2>🔍 Crime Analysis</h2>
+  <p class="subtitle">Chicago 2012–2017</p>
+
+  <!-- Crime type filter -->
+  <div class="control-group">
+    <label>Crime Type</label>
+    <select id="crimeTypeFilter">
+      <option value="">All Types</option>
+      <option value="THEFT">Theft</option>
+      <option value="BATTERY">Battery</option>
+      <option value="NARCOTICS">Narcotics</option>
+      <option value="CRIMINAL DAMAGE">Criminal Damage</option>
+    </select>
+  </div>
+
+  <!-- Hour slider -->
+  <div class="control-group">
+    <label>Hour of Day: <span id="hourValue">12</span>:00</label>
+    <input type="range" id="hourSlider" min="0" max="23" value="12">
+  </div>
+
+  <!-- Month slider -->
+  <div class="control-group">
+    <label>Month: <span id="monthValue">January</span></label>
+    <input type="range" id="monthSlider" min="1" max="12" value="1">
+  </div>
+
+  <button id="predictBtn">⚡ Get Risk Score</button>
+  <button id="loadHotspotsBtn">🔥 Load Hotspots</button>
+  <button id="loadAlertsBtn">🚨 Live Alerts</button>
+
+  <!-- Risk score result -->
+  <div id="riskResult" class="hidden">
+    <h3>Risk Score</h3>
+    <div id="riskScore" class="risk-score"></div>
+    <div id="riskLevel" class="risk-level"></div>
+    <p id="riskInfo"></p>
+  </div>
+
+  <!-- Alerts panel -->
+  <div id="alertsPanel" class="hidden">
+    <h3>🚨 Active Alerts</h3>
+    <div id="alertsList"></div>
+  </div>
+
+  <!-- Stats -->
+  <div id="statsPanel">
+    <h3>Dataset Stats</h3>
+    <div class="stat"><span>Total Records</span><strong>1.4M+</strong></div>
+    <div class="stat"><span>Crime Types</span><strong>4 analyzed</strong></div>
+    <div class="stat"><span>Model AUC-ROC</span><strong>0.8811</strong></div>
+    <div class="stat"><span>Hotspots Found</span><strong>303</strong></div>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<script src="map.js"></script>
+</body>
+</html>

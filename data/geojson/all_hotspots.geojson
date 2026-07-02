@@ -1,0 +1,4550 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62763953592733,
+          41.888336939830076
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "crime_count": 5532,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65085773702386,
+          41.94046801226014
+        ]
+      },
+      "properties": {
+        "cluster_id": 37,
+        "crime_count": 419,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67587290664127,
+          41.90908880499508
+        ]
+      },
+      "properties": {
+        "cluster_id": 13,
+        "crime_count": 407,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74152643434559,
+          41.754597439933825
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "crime_count": 272,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63934833210318,
+          41.867216208615076
+        ]
+      },
+      "properties": {
+        "cluster_id": 4,
+        "crime_count": 252,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74219955453242,
+          41.90966193594444
+        ]
+      },
+      "properties": {
+        "cluster_id": 16,
+        "crime_count": 216,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65628879037673,
+          41.96374047030233
+        ]
+      },
+      "properties": {
+        "cluster_id": 26,
+        "crime_count": 215,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64045250716667,
+          41.88020949257843
+        ]
+      },
+      "properties": {
+        "cluster_id": 23,
+        "crime_count": 204,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65127674355676,
+          41.910316372054055
+        ]
+      },
+      "properties": {
+        "cluster_id": 9,
+        "crime_count": 185,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66696600487953,
+          41.90387344248193
+        ]
+      },
+      "properties": {
+        "cluster_id": 15,
+        "crime_count": 166,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62629534479747,
+          41.86720148796835
+        ]
+      },
+      "properties": {
+        "cluster_id": 19,
+        "crime_count": 158,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64487766794267,
+          41.9333872504586
+        ]
+      },
+      "properties": {
+        "cluster_id": 56,
+        "crime_count": 157,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62836730419608,
+          41.736222712562096
+        ]
+      },
+      "properties": {
+        "cluster_id": 52,
+        "crime_count": 153,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65580998619464,
+          41.94691968079866
+        ]
+      },
+      "properties": {
+        "cluster_id": 27,
+        "crime_count": 149,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64038384922974,
+          41.904500818587834
+        ]
+      },
+      "properties": {
+        "cluster_id": 5,
+        "crime_count": 148,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63408469674825,
+          41.74271724588112
+        ]
+      },
+      "properties": {
+        "cluster_id": 21,
+        "crime_count": 143,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63527798617021,
+          41.916815388418435
+        ]
+      },
+      "properties": {
+        "cluster_id": 20,
+        "crime_count": 141,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.604755573375,
+          41.73839219042188
+        ]
+      },
+      "properties": {
+        "cluster_id": 22,
+        "crime_count": 128,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74579968508661,
+          41.953385377952756
+        ]
+      },
+      "properties": {
+        "cluster_id": 42,
+        "crime_count": 127,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64754042943902,
+          41.881476087894306
+        ]
+      },
+      "properties": {
+        "cluster_id": 35,
+        "crime_count": 123,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68520283779465,
+          41.92994287134821
+        ]
+      },
+      "properties": {
+        "cluster_id": 11,
+        "crime_count": 112,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90647571637037,
+          41.97899163164815
+        ]
+      },
+      "properties": {
+        "cluster_id": 25,
+        "crime_count": 108,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63586051931132,
+          41.91124024710378
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "crime_count": 106,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67531604935294,
+          42.01869812011764
+        ]
+      },
+      "properties": {
+        "cluster_id": 45,
+        "crime_count": 102,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66309117809901,
+          41.886215754970294
+        ]
+      },
+      "properties": {
+        "cluster_id": 67,
+        "crime_count": 101,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7037905080297,
+          41.8020794660495
+        ]
+      },
+      "properties": {
+        "cluster_id": 63,
+        "crime_count": 101,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57636764136458,
+          41.7658728965
+        ]
+      },
+      "properties": {
+        "cluster_id": 36,
+        "crime_count": 96,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64677685376843,
+          41.89099569706316
+        ]
+      },
+      "properties": {
+        "cluster_id": 24,
+        "crime_count": 95,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64430398016484,
+          41.94022509391208
+        ]
+      },
+      "properties": {
+        "cluster_id": 55,
+        "crime_count": 91,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90510726613334,
+          41.976269597699996
+        ]
+      },
+      "properties": {
+        "cluster_id": 28,
+        "crime_count": 90,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63333668630682,
+          41.85334510892046
+        ]
+      },
+      "properties": {
+        "cluster_id": 39,
+        "crime_count": 88,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67777187718823,
+          41.89583651889412
+        ]
+      },
+      "properties": {
+        "cluster_id": 33,
+        "crime_count": 85,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58597858322891,
+          41.757828722686746
+        ]
+      },
+      "properties": {
+        "cluster_id": 17,
+        "crime_count": 83,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7029665081154,
+          41.77853401847436
+        ]
+      },
+      "properties": {
+        "cluster_id": 66,
+        "crime_count": 78,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63136294435527,
+          41.79503125518421
+        ]
+      },
+      "properties": {
+        "cluster_id": 49,
+        "crime_count": 76,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64915273304,
+          41.94869750148
+        ]
+      },
+      "properties": {
+        "cluster_id": 58,
+        "crime_count": 75,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65543888751999,
+          41.97686249233334
+        ]
+      },
+      "properties": {
+        "cluster_id": 10,
+        "crime_count": 75,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68941368674325,
+          41.91816731104054
+        ]
+      },
+      "properties": {
+        "cluster_id": 46,
+        "crime_count": 74,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59630229580281,
+          41.69595085528169
+        ]
+      },
+      "properties": {
+        "cluster_id": 54,
+        "crime_count": 71,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61160054305634,
+          41.891958751169014
+        ]
+      },
+      "properties": {
+        "cluster_id": 57,
+        "crime_count": 71,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64788821238571,
+          41.88676548838571
+        ]
+      },
+      "properties": {
+        "cluster_id": 18,
+        "crime_count": 70,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61568533307143,
+          41.77965618742857
+        ]
+      },
+      "properties": {
+        "cluster_id": 62,
+        "crime_count": 70,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68804611738236,
+          41.942674091985296
+        ]
+      },
+      "properties": {
+        "cluster_id": 50,
+        "crime_count": 68,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7863077320597,
+          41.92360403932836
+        ]
+      },
+      "properties": {
+        "cluster_id": 32,
+        "crime_count": 67,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64406854932835,
+          41.75083047426865
+        ]
+      },
+      "properties": {
+        "cluster_id": 48,
+        "crime_count": 67,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66032312204688,
+          41.99158705534375
+        ]
+      },
+      "properties": {
+        "cluster_id": 72,
+        "crime_count": 64,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74651695155555,
+          41.90860261677778
+        ]
+      },
+      "properties": {
+        "cluster_id": 31,
+        "crime_count": 63,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67282631970967,
+          42.01899488741936
+        ]
+      },
+      "properties": {
+        "cluster_id": 6,
+        "crime_count": 62,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68573151631148,
+          41.88150665108196
+        ]
+      },
+      "properties": {
+        "cluster_id": 60,
+        "crime_count": 61,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66545827271666,
+          41.92174128361667
+        ]
+      },
+      "properties": {
+        "cluster_id": 34,
+        "crime_count": 60,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66902915183051,
+          41.94114151140678
+        ]
+      },
+      "properties": {
+        "cluster_id": 12,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60633006059322,
+          41.80894019127118
+        ]
+      },
+      "properties": {
+        "cluster_id": 44,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6446932879322,
+          41.77343453883051
+        ]
+      },
+      "properties": {
+        "cluster_id": 51,
+        "crime_count": 59,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61725161356895,
+          41.83167881060345
+        ]
+      },
+      "properties": {
+        "cluster_id": 53,
+        "crime_count": 58,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68907244415789,
+          41.851987195157896
+        ]
+      },
+      "properties": {
+        "cluster_id": 38,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74119983640351,
+          41.78872753094737
+        ]
+      },
+      "properties": {
+        "cluster_id": 30,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74282680592982,
+          41.93146896661404
+        ]
+      },
+      "properties": {
+        "cluster_id": 29,
+        "crime_count": 57,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72344308314287,
+          41.80002490401785
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "crime_count": 56,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64541808385715,
+          41.92290887005357
+        ]
+      },
+      "properties": {
+        "cluster_id": 59,
+        "crime_count": 56,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66379749758181,
+          41.765690956654545
+        ]
+      },
+      "properties": {
+        "cluster_id": 47,
+        "crime_count": 55,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64645477360376,
+          41.94587544864151
+        ]
+      },
+      "properties": {
+        "cluster_id": 8,
+        "crime_count": 53,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67498558024529,
+          41.810108922301886
+        ]
+      },
+      "properties": {
+        "cluster_id": 71,
+        "crime_count": 53,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5852858862,
+          41.7362029791
+        ]
+      },
+      "properties": {
+        "cluster_id": 65,
+        "crime_count": 50,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66568562504,
+          41.836312638219994
+        ]
+      },
+      "properties": {
+        "cluster_id": 61,
+        "crime_count": 50,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65518776363265,
+          41.87802876108163
+        ]
+      },
+      "properties": {
+        "cluster_id": 14,
+        "crime_count": 49,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66634548846937,
+          41.8663068307551
+        ]
+      },
+      "properties": {
+        "cluster_id": 7,
+        "crime_count": 49,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62427995227084,
+          41.7217469155625
+        ]
+      },
+      "properties": {
+        "cluster_id": 41,
+        "crime_count": 48,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72240228975556,
+          41.76490889648889
+        ]
+      },
+      "properties": {
+        "cluster_id": 43,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64715951313333,
+          41.918809807466666
+        ]
+      },
+      "properties": {
+        "cluster_id": 81,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64605111773334,
+          41.83861836693333
+        ]
+      },
+      "properties": {
+        "cluster_id": 68,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63692800382222,
+          41.88971936153333
+        ]
+      },
+      "properties": {
+        "cluster_id": 69,
+        "crime_count": 45,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.80576669,
+          41.909307068
+        ]
+      },
+      "properties": {
+        "cluster_id": 40,
+        "crime_count": 44,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78866301406819,
+          41.9309506860909
+        ]
+      },
+      "properties": {
+        "cluster_id": 82,
+        "crime_count": 44,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66362349388372,
+          41.76840302734884
+        ]
+      },
+      "properties": {
+        "cluster_id": 75,
+        "crime_count": 43,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71348835532558,
+          41.946063662023256
+        ]
+      },
+      "properties": {
+        "cluster_id": 79,
+        "crime_count": 43,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72458875921429,
+          41.85187221659524
+        ]
+      },
+      "properties": {
+        "cluster_id": 74,
+        "crime_count": 42,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69506676273171,
+          41.84365601480488
+        ]
+      },
+      "properties": {
+        "cluster_id": 80,
+        "crime_count": 41,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6635484046,
+          41.748807127875
+        ]
+      },
+      "properties": {
+        "cluster_id": 78,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66445652495,
+          41.779463571975
+        ]
+      },
+      "properties": {
+        "cluster_id": 84,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63589518405,
+          41.922252791325
+        ]
+      },
+      "properties": {
+        "cluster_id": 77,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55100214192501,
+          41.729919983849996
+        ]
+      },
+      "properties": {
+        "cluster_id": 73,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6627463646,
+          41.678337545
+        ]
+      },
+      "properties": {
+        "cluster_id": 76,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.649108431375,
+          41.9293968781
+        ]
+      },
+      "properties": {
+        "cluster_id": 83,
+        "crime_count": 40,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63936700353334,
+          41.91071169093333
+        ]
+      },
+      "properties": {
+        "cluster_id": 70,
+        "crime_count": 30,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62419416922222,
+          41.8729499787037
+        ]
+      },
+      "properties": {
+        "cluster_id": 64,
+        "crime_count": 27,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55214387036841,
+          41.72807426557895
+        ]
+      },
+      "properties": {
+        "cluster_id": 85,
+        "crime_count": 19,
+        "crime_type": "THEFT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60259503749666,
+          41.74839311919833
+        ]
+      },
+      "properties": {
+        "cluster_id": 8,
+        "crime_count": 600,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56355414971739,
+          41.756895630335755
+        ]
+      },
+      "properties": {
+        "cluster_id": 20,
+        "crime_count": 414,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75242243572563,
+          41.88084323423077
+        ]
+      },
+      "properties": {
+        "cluster_id": 24,
+        "crime_count": 390,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61511764804298,
+          41.779660188203444
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "crime_count": 349,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76464826410127,
+          41.88430228676899
+        ]
+      },
+      "properties": {
+        "cluster_id": 14,
+        "crime_count": 316,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62783318167021,
+          41.88113302518794
+        ]
+      },
+      "properties": {
+        "cluster_id": 4,
+        "crime_count": 282,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62962472977253,
+          41.89140332367382
+        ]
+      },
+      "properties": {
+        "cluster_id": 10,
+        "crime_count": 233,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72464229426839,
+          41.87895732757143
+        ]
+      },
+      "properties": {
+        "cluster_id": 6,
+        "crime_count": 231,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66376493201861,
+          41.74936481734418
+        ]
+      },
+      "properties": {
+        "cluster_id": 23,
+        "crime_count": 215,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71857073352152,
+          41.8645168912957
+        ]
+      },
+      "properties": {
+        "cluster_id": 30,
+        "crime_count": 186,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65657646431492,
+          41.96580605085083
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "crime_count": 181,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71333633245506,
+          41.8594213886854
+        ]
+      },
+      "properties": {
+        "cluster_id": 21,
+        "crime_count": 178,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5746341319883,
+          41.76667277935088
+        ]
+      },
+      "properties": {
+        "cluster_id": 11,
+        "crime_count": 171,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65564879139869,
+          41.94640636415033
+        ]
+      },
+      "properties": {
+        "cluster_id": 27,
+        "crime_count": 153,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66388973142176,
+          41.779725864136054
+        ]
+      },
+      "properties": {
+        "cluster_id": 16,
+        "crime_count": 147,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58382655114893,
+          41.771711944709224
+        ]
+      },
+      "properties": {
+        "cluster_id": 7,
+        "crime_count": 141,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71968648883453,
+          41.895598952884896
+        ]
+      },
+      "properties": {
+        "cluster_id": 13,
+        "crime_count": 139,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60523692157265,
+          41.65597361895726
+        ]
+      },
+      "properties": {
+        "cluster_id": 15,
+        "crime_count": 117,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7252198436091,
+          41.90185945198182
+        ]
+      },
+      "properties": {
+        "cluster_id": 28,
+        "crime_count": 110,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76315172671,
+          41.876209148790004
+        ]
+      },
+      "properties": {
+        "cluster_id": 18,
+        "crime_count": 100,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70976547883696,
+          41.86302220916304
+        ]
+      },
+      "properties": {
+        "cluster_id": 38,
+        "crime_count": 92,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62948929559091,
+          41.90344237180682
+        ]
+      },
+      "properties": {
+        "cluster_id": 39,
+        "crime_count": 88,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63922873402353,
+          41.90748637974118
+        ]
+      },
+      "properties": {
+        "cluster_id": 42,
+        "crime_count": 85,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64938719969048,
+          41.94354455970238
+        ]
+      },
+      "properties": {
+        "cluster_id": 25,
+        "crime_count": 84,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6143794308481,
+          41.82961098668355
+        ]
+      },
+      "properties": {
+        "cluster_id": 9,
+        "crime_count": 79,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63271968710389,
+          41.82540583050649
+        ]
+      },
+      "properties": {
+        "cluster_id": 48,
+        "crime_count": 77,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70438302389474,
+          41.880675159236844
+        ]
+      },
+      "properties": {
+        "cluster_id": 29,
+        "crime_count": 76,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72563896117568,
+          41.89475285344595
+        ]
+      },
+      "properties": {
+        "cluster_id": 22,
+        "crime_count": 74,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68498750891666,
+          41.778970657083335
+        ]
+      },
+      "properties": {
+        "cluster_id": 64,
+        "crime_count": 72,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55839697016667,
+          41.75382614076389
+        ]
+      },
+      "properties": {
+        "cluster_id": 68,
+        "crime_count": 72,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65334371872223,
+          41.93997933966667
+        ]
+      },
+      "properties": {
+        "cluster_id": 34,
+        "crime_count": 72,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6769142495,
+          41.91002990605714
+        ]
+      },
+      "properties": {
+        "cluster_id": 40,
+        "crime_count": 70,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6953843684058,
+          41.86613107743478
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "crime_count": 69,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62602324305882,
+          41.86746525498529
+        ]
+      },
+      "properties": {
+        "cluster_id": 43,
+        "crime_count": 68,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72900841431344,
+          41.88265964749254
+        ]
+      },
+      "properties": {
+        "cluster_id": 37,
+        "crime_count": 67,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63481835286568,
+          41.75856670634329
+        ]
+      },
+      "properties": {
+        "cluster_id": 77,
+        "crime_count": 67,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58281530668657,
+          41.765281577701494
+        ]
+      },
+      "properties": {
+        "cluster_id": 44,
+        "crime_count": 67,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66294585533845,
+          41.802147774953845
+        ]
+      },
+      "properties": {
+        "cluster_id": 74,
+        "crime_count": 65,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64087075958462,
+          41.77698087543077
+        ]
+      },
+      "properties": {
+        "cluster_id": 33,
+        "crime_count": 65,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76495306485937,
+          41.9097685569375
+        ]
+      },
+      "properties": {
+        "cluster_id": 54,
+        "crime_count": 64,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70675032423438,
+          41.8828248484375
+        ]
+      },
+      "properties": {
+        "cluster_id": 61,
+        "crime_count": 64,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75424178692064,
+          41.89502160233333
+        ]
+      },
+      "properties": {
+        "cluster_id": 32,
+        "crime_count": 63,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54569169974604,
+          41.73595403877778
+        ]
+      },
+      "properties": {
+        "cluster_id": 26,
+        "crime_count": 63,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72835905301588,
+          41.86464070193651
+        ]
+      },
+      "properties": {
+        "cluster_id": 46,
+        "crime_count": 63,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67111697044261,
+          42.02039312662295
+        ]
+      },
+      "properties": {
+        "cluster_id": 50,
+        "crime_count": 61,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71258005144261,
+          41.85535749995082
+        ]
+      },
+      "properties": {
+        "cluster_id": 36,
+        "crime_count": 61,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55768465636667,
+          41.76054293471667
+        ]
+      },
+      "properties": {
+        "cluster_id": 45,
+        "crime_count": 60,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60681505344999,
+          41.7826720488
+        ]
+      },
+      "properties": {
+        "cluster_id": 79,
+        "crime_count": 60,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75481475315253,
+          41.87701010672881
+        ]
+      },
+      "properties": {
+        "cluster_id": 75,
+        "crime_count": 59,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63501767722413,
+          41.893555193327586
+        ]
+      },
+      "properties": {
+        "cluster_id": 19,
+        "crime_count": 58,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55038911775863,
+          41.75373030213793
+        ]
+      },
+      "properties": {
+        "cluster_id": 47,
+        "crime_count": 58,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7112911344,
+          41.88553664658182
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "crime_count": 55,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65406284620755,
+          41.779252250283015
+        ]
+      },
+      "properties": {
+        "cluster_id": 56,
+        "crime_count": 53,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62819625356605,
+          41.89673170315094
+        ]
+      },
+      "properties": {
+        "cluster_id": 17,
+        "crime_count": 53,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56410416313724,
+          41.70269674190197
+        ]
+      },
+      "properties": {
+        "cluster_id": 65,
+        "crime_count": 51,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73839677842,
+          41.88295633106
+        ]
+      },
+      "properties": {
+        "cluster_id": 67,
+        "crime_count": 50,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77214538342857,
+          41.88048398740817
+        ]
+      },
+      "properties": {
+        "cluster_id": 83,
+        "crime_count": 49,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73146580867392,
+          41.879860809630436
+        ]
+      },
+      "properties": {
+        "cluster_id": 72,
+        "crime_count": 46,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66644441460869,
+          42.020628946326084
+        ]
+      },
+      "properties": {
+        "cluster_id": 55,
+        "crime_count": 46,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71090963434783,
+          41.88134397176087
+        ]
+      },
+      "properties": {
+        "cluster_id": 82,
+        "crime_count": 46,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62203781148888,
+          41.80211631088889
+        ]
+      },
+      "properties": {
+        "cluster_id": 35,
+        "crime_count": 45,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62781705482222,
+          41.841073998288884
+        ]
+      },
+      "properties": {
+        "cluster_id": 59,
+        "crime_count": 45,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55364448522222,
+          41.735609831311116
+        ]
+      },
+      "properties": {
+        "cluster_id": 70,
+        "crime_count": 45,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66692238995554,
+          41.90344204228889
+        ]
+      },
+      "properties": {
+        "cluster_id": 41,
+        "crime_count": 45,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62166454268181,
+          41.78758689459091
+        ]
+      },
+      "properties": {
+        "cluster_id": 31,
+        "crime_count": 44,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62538137436364,
+          41.75070508025
+        ]
+      },
+      "properties": {
+        "cluster_id": 63,
+        "crime_count": 44,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6854178728372,
+          41.87740698797675
+        ]
+      },
+      "properties": {
+        "cluster_id": 91,
+        "crime_count": 43,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70055098369768,
+          41.96932826118604
+        ]
+      },
+      "properties": {
+        "cluster_id": 12,
+        "crime_count": 43,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61259197469766,
+          41.692800753093024
+        ]
+      },
+      "properties": {
+        "cluster_id": 78,
+        "crime_count": 43,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64854559806977,
+          41.764952890418606
+        ]
+      },
+      "properties": {
+        "cluster_id": 86,
+        "crime_count": 43,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55398333497675,
+          41.75665667960465
+        ]
+      },
+      "properties": {
+        "cluster_id": 94,
+        "crime_count": 43,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67075231930951,
+          41.777720351214285
+        ]
+      },
+      "properties": {
+        "cluster_id": 80,
+        "crime_count": 42,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54947134838096,
+          41.745680666595234
+        ]
+      },
+      "properties": {
+        "cluster_id": 49,
+        "crime_count": 42,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63718668683335,
+          41.768667789357146
+        ]
+      },
+      "properties": {
+        "cluster_id": 90,
+        "crime_count": 42,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63555444569047,
+          41.75549295973809
+        ]
+      },
+      "properties": {
+        "cluster_id": 52,
+        "crime_count": 42,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75647779864286,
+          41.88657555019048
+        ]
+      },
+      "properties": {
+        "cluster_id": 58,
+        "crime_count": 42,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62855313282927,
+          41.764099770146345
+        ]
+      },
+      "properties": {
+        "cluster_id": 5,
+        "crime_count": 41,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62600193765853,
+          41.76905943346341
+        ]
+      },
+      "properties": {
+        "cluster_id": 57,
+        "crime_count": 41,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62161745226828,
+          41.69264259990244
+        ]
+      },
+      "properties": {
+        "cluster_id": 88,
+        "crime_count": 41,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62873037363414,
+          41.76966709265854
+        ]
+      },
+      "properties": {
+        "cluster_id": 85,
+        "crime_count": 41,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57266396457501,
+          41.7370764475
+        ]
+      },
+      "properties": {
+        "cluster_id": 84,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.714339182375,
+          41.86649135065
+        ]
+      },
+      "properties": {
+        "cluster_id": 92,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.673718243825,
+          41.79402364395
+        ]
+      },
+      "properties": {
+        "cluster_id": 69,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.745666689675,
+          41.879169926375
+        ]
+      },
+      "properties": {
+        "cluster_id": 53,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62308145005,
+          41.7911877274
+        ]
+      },
+      "properties": {
+        "cluster_id": 66,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.581958552725,
+          41.752221324800004
+        ]
+      },
+      "properties": {
+        "cluster_id": 93,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70551014335,
+          41.865889633875
+        ]
+      },
+      "properties": {
+        "cluster_id": 73,
+        "crime_count": 40,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55756022739475,
+          41.757921739000004
+        ]
+      },
+      "properties": {
+        "cluster_id": 51,
+        "crime_count": 38,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70673363323684,
+          41.87793946786842
+        ]
+      },
+      "properties": {
+        "cluster_id": 71,
+        "crime_count": 38,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76044066730303,
+          41.87741256654545
+        ]
+      },
+      "properties": {
+        "cluster_id": 62,
+        "crime_count": 33,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70979764188888,
+          41.88338694014815
+        ]
+      },
+      "properties": {
+        "cluster_id": 89,
+        "crime_count": 27,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71930129348,
+          41.85981167124
+        ]
+      },
+      "properties": {
+        "cluster_id": 60,
+        "crime_count": 25,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60248414136,
+          41.7556386658
+        ]
+      },
+      "properties": {
+        "cluster_id": 81,
+        "crime_count": 25,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72191589210527,
+          41.899707983052636
+        ]
+      },
+      "properties": {
+        "cluster_id": 87,
+        "crime_count": 19,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6216845678,
+          41.789159219
+        ]
+      },
+      "properties": {
+        "cluster_id": 76,
+        "crime_count": 10,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70797749655554,
+          41.87959852033334
+        ]
+      },
+      "properties": {
+        "cluster_id": 95,
+        "crime_count": 9,
+        "crime_type": "BATTERY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60217672902931,
+          41.74735905352015
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "crime_count": 273,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61513302721818,
+          41.77889811031818
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "crime_count": 220,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56417705902459,
+          41.75409440903279
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "crime_count": 122,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58341130758252,
+          41.77175531709709
+        ]
+      },
+      "properties": {
+        "cluster_id": 19,
+        "crime_count": 103,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57421908109184,
+          41.76713740920408
+        ]
+      },
+      "properties": {
+        "cluster_id": 10,
+        "crime_count": 98,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71273255143181,
+          41.968460627875
+        ]
+      },
+      "properties": {
+        "cluster_id": 13,
+        "crime_count": 88,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7169855375875,
+          41.8635604451875
+        ]
+      },
+      "properties": {
+        "cluster_id": 8,
+        "crime_count": 80,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70984118829114,
+          41.86293541332911
+        ]
+      },
+      "properties": {
+        "cluster_id": 14,
+        "crime_count": 79,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76495894296154,
+          41.88275221489744
+        ]
+      },
+      "properties": {
+        "cluster_id": 9,
+        "crime_count": 78,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74873428474628,
+          41.87843223091045
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "crime_count": 67,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67444306124241,
+          42.02206076833333
+        ]
+      },
+      "properties": {
+        "cluster_id": 6,
+        "crime_count": 66,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62255582532309,
+          41.791385961969226
+        ]
+      },
+      "properties": {
+        "cluster_id": 5,
+        "crime_count": 65,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57241188370689,
+          41.77222051148276
+        ]
+      },
+      "properties": {
+        "cluster_id": 4,
+        "crime_count": 58,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75135353715517,
+          41.88147783353449
+        ]
+      },
+      "properties": {
+        "cluster_id": 17,
+        "crime_count": 58,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64125735949999,
+          41.904541104625004
+        ]
+      },
+      "properties": {
+        "cluster_id": 21,
+        "crime_count": 56,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67751402492308,
+          41.90972299692308
+        ]
+      },
+      "properties": {
+        "cluster_id": 12,
+        "crime_count": 52,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63425422091305,
+          41.88442605330435
+        ]
+      },
+      "properties": {
+        "cluster_id": 20,
+        "crime_count": 46,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68031987304349,
+          41.881053596891306
+        ]
+      },
+      "properties": {
+        "cluster_id": 18,
+        "crime_count": 46,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.739927261,
+          41.790754583
+        ]
+      },
+      "properties": {
+        "cluster_id": 16,
+        "crime_count": 44,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56391886542858,
+          41.70159366028571
+        ]
+      },
+      "properties": {
+        "cluster_id": 15,
+        "crime_count": 42,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62747628043903,
+          41.892715422195124
+        ]
+      },
+      "properties": {
+        "cluster_id": 24,
+        "crime_count": 41,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55427430282927,
+          41.7568386122683
+        ]
+      },
+      "properties": {
+        "cluster_id": 23,
+        "crime_count": 41,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7265070079,
+          41.879759022525
+        ]
+      },
+      "properties": {
+        "cluster_id": 11,
+        "crime_count": 40,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68536473175,
+          41.779621889525
+        ]
+      },
+      "properties": {
+        "cluster_id": 22,
+        "crime_count": 40,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75129754186487,
+          41.87668176856757
+        ]
+      },
+      "properties": {
+        "cluster_id": 7,
+        "crime_count": 37,
+        "crime_type": "CRIMINAL DAMAGE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7235731363586,
+          41.88802799617872
+        ]
+      },
+      "properties": {
+        "cluster_id": 4,
+        "crime_count": 6860,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75201153291306,
+          41.88421820809177
+        ]
+      },
+      "properties": {
+        "cluster_id": 6,
+        "crime_count": 4762,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71467768780367,
+          41.86421112898428
+        ]
+      },
+      "properties": {
+        "cluster_id": 9,
+        "crime_count": 2608,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70804037467907,
+          41.87278718648385
+        ]
+      },
+      "properties": {
+        "cluster_id": 1,
+        "crime_count": 1424,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65724354823428,
+          41.96590228659219
+        ]
+      },
+      "properties": {
+        "cluster_id": 3,
+        "crime_count": 461,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60371754813242,
+          41.74912737595662
+        ]
+      },
+      "properties": {
+        "cluster_id": 19,
+        "crime_count": 438,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70444883938845,
+          41.88222420973228
+        ]
+      },
+      "properties": {
+        "cluster_id": 27,
+        "crime_count": 381,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65427274441639,
+          41.7906077671836
+        ]
+      },
+      "properties": {
+        "cluster_id": 2,
+        "crime_count": 305,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61498934968874,
+          41.78107417987086
+        ]
+      },
+      "properties": {
+        "cluster_id": 34,
+        "crime_count": 302,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5618357759727,
+          41.75232896096928
+        ]
+      },
+      "properties": {
+        "cluster_id": 24,
+        "crime_count": 293,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68618405744262,
+          41.77923888628279
+        ]
+      },
+      "properties": {
+        "cluster_id": 8,
+        "crime_count": 244,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66420438405738,
+          41.750082403696716
+        ]
+      },
+      "properties": {
+        "cluster_id": 17,
+        "crime_count": 244,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75573305822131,
+          41.90243427229918
+        ]
+      },
+      "properties": {
+        "cluster_id": 59,
+        "crime_count": 244,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7092992412437,
+          41.86817215405882
+        ]
+      },
+      "properties": {
+        "cluster_id": 13,
+        "crime_count": 238,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57513710327966,
+          41.766411010283896
+        ]
+      },
+      "properties": {
+        "cluster_id": 14,
+        "crime_count": 236,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66336398427691,
+          41.77980755781025
+        ]
+      },
+      "properties": {
+        "cluster_id": 43,
+        "crime_count": 195,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62589668951064,
+          41.72219597455851
+        ]
+      },
+      "properties": {
+        "cluster_id": 40,
+        "crime_count": 188,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67175002432597,
+          42.02031749349724
+        ]
+      },
+      "properties": {
+        "cluster_id": 16,
+        "crime_count": 181,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76457760085256,
+          41.88692098889744
+        ]
+      },
+      "properties": {
+        "cluster_id": 48,
+        "crime_count": 156,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.907472601,
+          41.953900467
+        ]
+      },
+      "properties": {
+        "cluster_id": 44,
+        "crime_count": 153,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71099096099341,
+          41.88515730913158
+        ]
+      },
+      "properties": {
+        "cluster_id": 7,
+        "crime_count": 152,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62208586029932,
+          41.69195662378232
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "crime_count": 147,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.56280900857534,
+          41.75848519460274
+        ]
+      },
+      "properties": {
+        "cluster_id": 64,
+        "crime_count": 146,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69631483897945,
+          41.88087819110959
+        ]
+      },
+      "properties": {
+        "cluster_id": 54,
+        "crime_count": 146,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64352215836233,
+          41.75047691783334
+        ]
+      },
+      "properties": {
+        "cluster_id": 61,
+        "crime_count": 138,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66116385546377,
+          41.79052145836232
+        ]
+      },
+      "properties": {
+        "cluster_id": 75,
+        "crime_count": 138,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75411018492647,
+          41.90931467777941
+        ]
+      },
+      "properties": {
+        "cluster_id": 26,
+        "crime_count": 136,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55304656624813,
+          41.75111447407519
+        ]
+      },
+      "properties": {
+        "cluster_id": 47,
+        "crime_count": 133,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63277297452274,
+          41.79384386252273
+        ]
+      },
+      "properties": {
+        "cluster_id": 15,
+        "crime_count": 132,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76665301631299,
+          41.89503499207633
+        ]
+      },
+      "properties": {
+        "cluster_id": 32,
+        "crime_count": 131,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76461354428346,
+          41.90922956783464
+        ]
+      },
+      "properties": {
+        "cluster_id": 23,
+        "crime_count": 127,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64430934274603,
+          41.77306635753175
+        ]
+      },
+      "properties": {
+        "cluster_id": 10,
+        "crime_count": 126,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62541361986179,
+          41.75077034163415
+        ]
+      },
+      "properties": {
+        "cluster_id": 62,
+        "crime_count": 123,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72450608689346,
+          41.85381486692623
+        ]
+      },
+      "properties": {
+        "cluster_id": 73,
+        "crime_count": 122,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71149314645454,
+          41.880889817785125
+        ]
+      },
+      "properties": {
+        "cluster_id": 65,
+        "crime_count": 121,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58654805864958,
+          41.77189151006837
+        ]
+      },
+      "properties": {
+        "cluster_id": 33,
+        "crime_count": 117,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77342016670909,
+          41.90251735395455
+        ]
+      },
+      "properties": {
+        "cluster_id": 29,
+        "crime_count": 110,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77398368877981,
+          41.90990251755963
+        ]
+      },
+      "properties": {
+        "cluster_id": 28,
+        "crime_count": 109,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66351893707619,
+          41.794397772780954
+        ]
+      },
+      "properties": {
+        "cluster_id": 35,
+        "crime_count": 105,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66330893332038,
+          41.80206987007767
+        ]
+      },
+      "properties": {
+        "cluster_id": 49,
+        "crime_count": 103,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58190162518447,
+          41.751997998582524
+        ]
+      },
+      "properties": {
+        "cluster_id": 78,
+        "crime_count": 103,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62859894707,
+          41.70722497725
+        ]
+      },
+      "properties": {
+        "cluster_id": 56,
+        "crime_count": 100,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68374652684848,
+          41.76394025446464
+        ]
+      },
+      "properties": {
+        "cluster_id": 39,
+        "crime_count": 99,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66443027775509,
+          41.78644617875511
+        ]
+      },
+      "properties": {
+        "cluster_id": 38,
+        "crime_count": 98,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63013302348958,
+          41.67842592446875
+        ]
+      },
+      "properties": {
+        "cluster_id": 86,
+        "crime_count": 96,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64696801434737,
+          41.735814005915785
+        ]
+      },
+      "properties": {
+        "cluster_id": 69,
+        "crime_count": 95,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61879111520652,
+          41.80932559410869
+        ]
+      },
+      "properties": {
+        "cluster_id": 45,
+        "crime_count": 92,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70229534585869,
+          41.87674568266304
+        ]
+      },
+      "properties": {
+        "cluster_id": 25,
+        "crime_count": 92,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6639262365111,
+          41.76906139241111
+        ]
+      },
+      "properties": {
+        "cluster_id": 53,
+        "crime_count": 90,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69883672717978,
+          41.77890099259551
+        ]
+      },
+      "properties": {
+        "cluster_id": 42,
+        "crime_count": 89,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6734482269663,
+          41.79429549425843
+        ]
+      },
+      "properties": {
+        "cluster_id": 77,
+        "crime_count": 89,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62117032365168,
+          41.81631265362921
+        ]
+      },
+      "properties": {
+        "cluster_id": 60,
+        "crime_count": 89,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65964337235955,
+          41.86514789966292
+        ]
+      },
+      "properties": {
+        "cluster_id": 52,
+        "crime_count": 89,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68618043102246,
+          41.87795244902247
+        ]
+      },
+      "properties": {
+        "cluster_id": 58,
+        "crime_count": 89,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62038000269412,
+          41.8311443516
+        ]
+      },
+      "properties": {
+        "cluster_id": 50,
+        "crime_count": 85,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65629492028948,
+          41.764800902842104
+        ]
+      },
+      "properties": {
+        "cluster_id": 31,
+        "crime_count": 76,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75574687454666,
+          41.873907680386665
+        ]
+      },
+      "properties": {
+        "cluster_id": 83,
+        "crime_count": 75,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61313301564,
+          41.80973043332
+        ]
+      },
+      "properties": {
+        "cluster_id": 11,
+        "crime_count": 75,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.73252946884722,
+          41.85123707952778
+        ]
+      },
+      "properties": {
+        "cluster_id": 22,
+        "crime_count": 72,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62795702449296,
+          41.87689772149296
+        ]
+      },
+      "properties": {
+        "cluster_id": 55,
+        "crime_count": 71,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62198644145072,
+          41.70787461491549
+        ]
+      },
+      "properties": {
+        "cluster_id": 12,
+        "crime_count": 71,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63181725286957,
+          41.90337732605797
+        ]
+      },
+      "properties": {
+        "cluster_id": 51,
+        "crime_count": 69,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65602529145902,
+          41.972975581704915
+        ]
+      },
+      "properties": {
+        "cluster_id": 63,
+        "crime_count": 61,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60611065732759,
+          41.77352129534483
+        ]
+      },
+      "properties": {
+        "cluster_id": 70,
+        "crime_count": 58,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62445413583929,
+          41.765461287892855
+        ]
+      },
+      "properties": {
+        "cluster_id": 91,
+        "crime_count": 56,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62548209778183,
+          41.76918952690909
+        ]
+      },
+      "properties": {
+        "cluster_id": 37,
+        "crime_count": 55,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63454920241819,
+          41.758426314672725
+        ]
+      },
+      "properties": {
+        "cluster_id": 76,
+        "crime_count": 55,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76701944372223,
+          41.90217460479629
+        ]
+      },
+      "properties": {
+        "cluster_id": 66,
+        "crime_count": 54,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.60600486275926,
+          41.780473048518516
+        ]
+      },
+      "properties": {
+        "cluster_id": 21,
+        "crime_count": 54,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65388169046297,
+          41.74675394575926
+        ]
+      },
+      "properties": {
+        "cluster_id": 71,
+        "crime_count": 54,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.69494124007407,
+          41.87715449022222
+        ]
+      },
+      "properties": {
+        "cluster_id": 67,
+        "crime_count": 54,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65309930453704,
+          41.9402139734074
+        ]
+      },
+      "properties": {
+        "cluster_id": 36,
+        "crime_count": 54,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63931964913208,
+          41.90693009235849
+        ]
+      },
+      "properties": {
+        "cluster_id": 79,
+        "crime_count": 53,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61487065013206,
+          41.765745023
+        ]
+      },
+      "properties": {
+        "cluster_id": 20,
+        "crime_count": 53,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.55143250819232,
+          41.74487458925
+        ]
+      },
+      "properties": {
+        "cluster_id": 90,
+        "crime_count": 52,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90521245894118,
+          41.97629810729411
+        ]
+      },
+      "properties": {
+        "cluster_id": 46,
+        "crime_count": 51,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62439740038,
+          41.73605587824
+        ]
+      },
+      "properties": {
+        "cluster_id": 5,
+        "crime_count": 50,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64476604420001,
+          41.79453812276
+        ]
+      },
+      "properties": {
+        "cluster_id": 88,
+        "crime_count": 50,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64185951160418,
+          41.89816560127083
+        ]
+      },
+      "properties": {
+        "cluster_id": 30,
+        "crime_count": 48,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64307409320833,
+          41.714737952854165
+        ]
+      },
+      "properties": {
+        "cluster_id": 18,
+        "crime_count": 48,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66159506282979,
+          41.77456640827659
+        ]
+      },
+      "properties": {
+        "cluster_id": 57,
+        "crime_count": 47,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71186392317391,
+          41.85497400034783
+        ]
+      },
+      "properties": {
+        "cluster_id": 41,
+        "crime_count": 46,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65232659054546,
+          41.69344132802273
+        ]
+      },
+      "properties": {
+        "cluster_id": 94,
+        "crime_count": 44,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62680554104651,
+          41.86776639627907
+        ]
+      },
+      "properties": {
+        "cluster_id": 68,
+        "crime_count": 43,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.65338926248837,
+          41.79793293625582
+        ]
+      },
+      "properties": {
+        "cluster_id": 82,
+        "crime_count": 43,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59826949988373,
+          41.726172566
+        ]
+      },
+      "properties": {
+        "cluster_id": 81,
+        "crime_count": 43,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64455138604762,
+          41.76254051207143
+        ]
+      },
+      "properties": {
+        "cluster_id": 89,
+        "crime_count": 42,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62077989440476,
+          41.80190565073809
+        ]
+      },
+      "properties": {
+        "cluster_id": 87,
+        "crime_count": 42,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77267052643903,
+          41.88047757336585
+        ]
+      },
+      "properties": {
+        "cluster_id": 72,
+        "crime_count": 41,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.76573658305,
+          41.9187967402
+        ]
+      },
+      "properties": {
+        "cluster_id": 74,
+        "crime_count": 40,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.652638980125,
+          41.76054043165
+        ]
+      },
+      "properties": {
+        "cluster_id": 80,
+        "crime_count": 40,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67397155705001,
+          41.767431872225
+        ]
+      },
+      "properties": {
+        "cluster_id": 93,
+        "crime_count": 40,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62780306455,
+          41.890134479775
+        ]
+      },
+      "properties": {
+        "cluster_id": 95,
+        "crime_count": 40,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72164218719999,
+          41.88397683025714
+        ]
+      },
+      "properties": {
+        "cluster_id": 92,
+        "crime_count": 35,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.74921713516129,
+          41.90328884806451
+        ]
+      },
+      "properties": {
+        "cluster_id": 84,
+        "crime_count": 31,
+        "crime_type": "NARCOTICS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.72669056132,
+          41.86003206072
+        ]
+      },
+      "properties": {
+        "cluster_id": 85,
+        "crime_count": 25,
+        "crime_type": "NARCOTICS"
+      }
+    }
+  ]
+}

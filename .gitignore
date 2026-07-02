@@ -1,0 +1,30 @@
+# Environment - NEVER commit
+.env
+
+# Large data files
+data/raw/
+data/processed/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Models (large binary files)
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
